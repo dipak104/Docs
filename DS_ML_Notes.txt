@@ -91,3 +91,18 @@ During training of a deep network when the gradients are being propagated back i
 Neural networks Building : 
 
 NN includes two important types of artificial neuron(perceptron and the sigmoid neuron), and the stochastic gradient descent.
+
+
+
+
+
+
+
+NLP:
+
+
+Create Pipeline
+
+clf = Pipeline([('tfidf',TfIdfVectorizer()), ('clf',RandomForestClassifier(n_estimators=100, n_jobs=-1))])
+
+
