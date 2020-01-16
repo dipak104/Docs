@@ -1,0 +1,8 @@
+1. Dataset consisting of variables having more than 30% missing values. Let's say out of 50 variables, 6 variables have missing values higher than 30%. How to deal with such scenario.
+	
+		a. Assign a unique category to missing values, who knows the missing values might decipher some trend.
+		b. We can remove them balantly.
+		c. We can sesibly check their distribution with the target variable, and if found any pattern we'll keep those missing values and assign thm a new category while removing others.
+		
+		
+		
