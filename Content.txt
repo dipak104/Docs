@@ -1,0 +1,16 @@
+The main aim of the use case is to predict call Area(Route) based on RepID & Client Historical data based on client profile. The system will work along with centralized help center of LPL Financial.
+
+
+Aim is to Predict Sentiment Based on Market Trends & News Feeds. The end results of the project is to portray the ups & downs in stock markets based on market news.Create Python Notebook for Exploratory Data Analysis & Visualization. Prepare model file to perform the requirements.
+
+
+Natural Language Processing (NLP) use case based on user data.The main aim of the project to Text Summarization with Page Rank Algorithm from corpus text.
+
+
+Create glove from scrapped data from Investopedia. Make a Machine Learning Model.Successfully modified & ran GloVe core from Stanford GloVe model.And generated GloVe word embeddings vector representation of words for Investopedia Articles.Generated top 10 sentences from the finance articles
+
+
+The goal of the project is to design & develop web crawler using python to crawl and scrap Investopedia articles. And create something like glove from that scrapped data.
+
+
+Find Document Similarity based on TF/IDF and other Machine Learning and Data Science Methodology
